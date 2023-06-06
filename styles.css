@@ -1,0 +1,18 @@
+body{
+    background-color: blanchedalmond;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: rgb(27, 24, 24);
+}
+
+.main{
+
+}
+
+header{
+    text-align: center;
+}
+
+.gallery{
+    background-color: grey;
+    
+}
